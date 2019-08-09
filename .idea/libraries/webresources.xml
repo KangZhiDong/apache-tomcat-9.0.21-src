@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="webresources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test/webresources/dir1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/test/webresources/non-static-resources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/test/webresources/dir1-internal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rsrc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test/webapp-virtual-webapp/src/main/webapp/WEB-INF/lib/rsrc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
