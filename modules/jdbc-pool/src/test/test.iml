@@ -9,5 +9,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="main" />
     <orderEntry type="module" module-name="apache-tomcat-9.0.21-src" />
+    <orderEntry type="library" name="org.eclipse.jdt.core-3.18.0" level="project" />
+    <orderEntry type="library" name="junit-4.12" level="project" />
+    <orderEntry type="library" name="easymock-3.4" level="project" />
   </component>
 </module>
