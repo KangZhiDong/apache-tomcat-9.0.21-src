@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/workspace.xml
+222apache-tomcat-9.0.21-src.iml
